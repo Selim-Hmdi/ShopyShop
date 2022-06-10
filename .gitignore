@@ -11,6 +11,7 @@ HELP.md
 .factorypath
 **/.project
 **/.settings
+.metadata
 .springBeans
 .sts4-cache
 
